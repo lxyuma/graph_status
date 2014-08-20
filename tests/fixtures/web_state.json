@@ -1,0 +1,12 @@
+{
+  "nodes":[
+    {"id":0, "name":"show"},
+    {"id":1, "name":"confirm"},
+    {"id":2, "name":"finish"}
+  ],
+  "edges":[
+    {"id":0, "name":"select", "from":0, "to":1},
+    {"id":0, "name":"ok", "from":1, "to":2},
+    {"id":0, "name":"cancel", "from":1, "to":0}
+  ]
+}

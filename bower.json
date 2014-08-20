@@ -1,0 +1,18 @@
+{
+  "name": "graph_status",
+  "version": "0.0.0",
+  "authors": [
+    "ryuma.tsukano <lyumalyuma@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "sinon": "~1.10.3"
+  }
+}
